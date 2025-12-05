@@ -7,15 +7,16 @@ export default function AboutMe({ id }) {
       <div className="about-container" id={id}>
         <div className="aboutMe-text">
           <h3>Hey there, 👋</h3>
-          I'm <span> Zubair </span>, a final year student pursuing <span>BS Software Engineering from <span>THE UNIVERSITY OF LAHORE</span></span>.  I specialize in creating dynamic, user-friendly applications utilizing modern architectures such as
- MVVM and MVI. My expertise extends to <span>AI integration</span> in mobile apps, enhancing both functionality and user
- experience through innovative solutions. Beyond development, I lead projects and cross-functional teams, ensuring timely and quality-focused outcomes
- aligned with client expectations.<br/>      <br/> <br/> As a <span>Project Manager</span>, I bridge the gap between technical and business needs,
- optimizing project workflows and fostering team productivity. I am also passionate about sharing knowledge and
- mentoring aspiring developers, providing guidance and practical insights to students in development fundamentals
- and advanced mobile technologies.
+          I'm <span> Zubair </span>,<span>a Senior Android Developer</span> with <span> 3 years of experience </span>   
+   building fast, scalable, and high-quality Android applications using <span>Kotlin</span>,<span> Java</span>,<span> Jetpack</span>,<span> MVVM</span>, and <span>Clean Architecture</span>.
+ <br/>      <br/> <br/> I <span>specialize</span> in native Android development with a strong command over<span> Room</span>,<span> WorkManager</span>,<span> Navigation Components</span>,<span> XML layouts</span>, and
+<span> Dagger Hilt</span>. I’ve built and optimized multiple production-level apps, led development teams, mentored junior engineers, and delivered smooth, <span>user-focused experiences</span> using <span>REST APIs</span> and <span>Firebase</span>.
+<br/>       <br/> <br/> I’m passionate about clean code, performance optimization, modern <span>UI/UX</span>, and solving real-world problems through mobile technology. 
 
-    
+
+
+
+
  <a className='resume' href={resume} download={resume}>explore my resume.</a>
         </div>
         <div className="profile-photo">
